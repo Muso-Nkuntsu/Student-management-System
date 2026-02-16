@@ -32,7 +32,7 @@ public class GraduateStudent extends Student {
     public String toString() {
         StringJoiner joiner = new StringJoiner(", ", "GraduateStudent{", "}");
 
-        joiner.add("studentId='" + studentId + "'");
+        joiner.add("studentId='" + studentID + "'");
         joiner.add("name='" + name + "'");
 
         if (department != null) {

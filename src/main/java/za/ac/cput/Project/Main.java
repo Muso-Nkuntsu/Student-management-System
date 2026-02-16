@@ -1,3 +1,6 @@
+//231223722
+//Muso Nkuntsu
+
 package za.ac.cput.Project;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
@@ -5,8 +8,8 @@ package za.ac.cput.Project;
 public class Main {
     public static void main(String[] args) {
 
-        Student undergrad = new UndergraduateStudent.Builder("U101", "John")
-                .email("john@uni.com")
+        Student undergrad = new UndergraduateStudent.Builder("23122387", "Muso")
+                .email("Musotuks@gmail.com")
                 .department("Computer Science")
                 .creditHours(18)
                 .scholarshipAmount(5000)
